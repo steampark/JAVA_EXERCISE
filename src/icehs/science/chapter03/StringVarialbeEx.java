@@ -9,7 +9,7 @@ public class StringVarialbeEx {
 		int parseMathScore = Integer.parseInt(mathScore);
 		System.out.println(name);
 		System.out.println(mathScore);
-		System.out.println(engScore);
+		System.out.println(engScore );
 		System.out.println("天天天天天天天天天天天天天天天天天天天");
 		System.out.println(mathScore+engScore);
 		System.out.println(parseMathScore+engScore);
